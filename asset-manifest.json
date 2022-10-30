@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/countdown-mybd/static/css/main.1283bace.css",
+    "main.js": "/countdown-mybd/static/js/main.9800f60a.js",
+    "index.html": "/countdown-mybd/index.html",
+    "main.1283bace.css.map": "/countdown-mybd/static/css/main.1283bace.css.map",
+    "main.9800f60a.js.map": "/countdown-mybd/static/js/main.9800f60a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1283bace.css",
+    "static/js/main.9800f60a.js"
+  ]
+}
